@@ -39,7 +39,7 @@ MuseScore {
         id: exclusiveGroupKey
     }
 
-    property var fontJianpu : "Constantia"
+    property var fontJianpu : "Freestyle Script"
 
     property var fileExist :true
 
