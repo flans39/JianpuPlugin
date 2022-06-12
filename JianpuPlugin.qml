@@ -39,7 +39,7 @@ MuseScore {
         id: exclusiveGroupKey
     }
 
-    property var fontJianpu : "Freestyle Script"
+    property var fontJianpu : "Edwin"
 
     property var fileExist :true
 
@@ -48,7 +48,7 @@ MuseScore {
     property var valCenterCInit : 60
     property var fontListInitNumber : 0
     property var fontListInitName : "b,#"
-    property var fontSizeInit : 12
+    property var fontSizeInit : 10
     property var yPositionInit : 3
     property var xPositionInit : 0
     property var partListInit : 0
